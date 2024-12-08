@@ -1,0 +1,17 @@
+{
+    "name": "genioam/copyright",
+    "autoload": {
+        "psr-4": {
+            "Genioam\\Copyright\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Federica Cosma",
+            "email": "cosmafederica@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
